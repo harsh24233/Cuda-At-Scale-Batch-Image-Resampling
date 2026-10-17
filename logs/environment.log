@@ -1,0 +1,58 @@
+=== Date and Timestamp ===
+Sat Oct 17 17:29:45 UTC 2026
+
+=== Host and Kernel ===
+Linux LAPTOP-OH1IBV2U 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+=== NVIDIA-SMI Device Information ===
+Sat Oct 17 17:29:47 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 590.74                 Driver Version: 592.82         CUDA Version: 13.1     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 4050 ...    On  |   00000000:01:00.0 Off |                  N/A |
+| N/A   38C    P4             13W /   30W |       0MiB /   6141MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+=== NVCC Compiler Information ===
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2023 NVIDIA Corporation
+Built on Fri_Jan__6_16:45:21_PST_2023
+Cuda compilation tools, release 12.0, V12.0.140
+Build cuda_12.0.r12.0/compiler.32267302_0
+
+=== NPP Shared Libraries ===
+	libnpps.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnpps.so.12
+	libnpps.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnpps.so
+	libnppitc.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppitc.so.12
+	libnppitc.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppitc.so
+	libnppisu.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppisu.so.12
+	libnppisu.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppisu.so
+	libnppist.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppist.so.12
+	libnppist.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppist.so
+	libnppim.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppim.so.12
+	libnppim.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppim.so
+	libnppig.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppig.so.12
+	libnppig.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppig.so
+	libnppif.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppif.so.12
+	libnppif.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppif.so
+	libnppidei.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppidei.so.12
+	libnppidei.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppidei.so
+	libnppicc.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppicc.so.12
+	libnppicc.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppicc.so
+	libnppial.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppial.so.12
+	libnppial.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppial.so
+	libnppc.so.12 (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppc.so.12
+	libnppc.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libnppc.so

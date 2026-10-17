@@ -1,0 +1,42 @@
+============================================================
+CUDA Enterprise Image Resampling Engine
+============================================================
+GPU Device:          NVIDIA GeForce RTX 4050 Laptop GPU
+Compute Capability:  8.9
+Total Global Memory: 6140 MiB
+Multiprocessors:     20
+Scale Factor:        0.5x
+Execution Mode:      Enterprise Batch Processing (Single Run)
+Batch Directory:     data/batch_large
+Output Directory:    results/batch_large
+------------------------------------------------------------
+Discovered 10 image(s) for batch processing.
+Beginning single-execution GPU batch pipeline...
+
+[Batch 001/10] large_image_01.pgm00 (2048x1536 -> 1024x768) | GPU: 010.21 ms | 00077.0 MP/s | SUCCESS
+[Batch 002/10] large_image_02.pgm00 (2048x1536 -> 1024x768) | GPU: 000.06 ms | 12257.4 MP/s | SUCCESS
+[Batch 003/10] large_image_03.pgm00 (2048x1536 -> 1024x768) | GPU: 000.05 ms | 14330.0 MP/s | SUCCESS
+[Batch 004/10] large_image_04.pgm00 (2048x1536 -> 1024x768) | GPU: 000.07 ms | 10703.8 MP/s | SUCCESS
+[Batch 005/10] large_image_05.pgm00 (2048x1536 -> 1024x768) | GPU: 000.05 ms | 14567.9 MP/s | SUCCESS
+[Batch 006/10] large_image_06.pgm00 (2048x1536 -> 1024x768) | GPU: 000.09 ms | 09058.6 MP/s | SUCCESS
+[Batch 007/10] large_image_07.pgm00 (2048x1536 -> 1024x768) | GPU: 000.06 ms | 13615.5 MP/s | SUCCESS
+[Batch 008/10] large_image_08.pgm00 (2048x1536 -> 1024x768) | GPU: 000.06 ms | 13510.7 MP/s | SUCCESS
+[Batch 009/10] large_image_09.pgm00 (2048x1536 -> 1024x768) | GPU: 000.06 ms | 13191.6 MP/s | SUCCESS
+[Batch 010/10] large_image_10.pgm00 (2048x1536 -> 1024x768) | GPU: 000.05 ms | 14672.2 MP/s | SUCCESS
+
+============================================================
+Enterprise GPU Batch Processing Summary
+============================================================
+Total Items Discovered:       10
+Successfully Processed:       10 / 10
+Total Input Data Volume:      31.46 Megapixels (30.00 MB raw)
+Total Output Data Volume:     7.86 Megapixels (7.50 MB raw)
+Cumulative GPU Kernel Time:   10.77 ms
+Average GPU Latency per Image:1.077 ms
+Total Batch Wall-Clock Time:  421.76 ms
+Batch Processing Rate:        23.7 images / second
+GPU Resampling Throughput:    729.99 Megapixels / second
+Overall Batch Execution Status: ALL PASSED (100% SUCCESS)
+============================================================
+Batch benchmark metrics saved to: results/benchmark_large_batch.csv
+

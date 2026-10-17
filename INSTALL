@@ -1,0 +1,21 @@
+# Installation Instructions: CUDA Enterprise Batch Image Resampling Engine
+
+Please refer to INSTALL.md for complete formatting and command listings.
+
+Quick Start:
+1. Verify CUDA and GPU:
+   nvidia-smi
+   nvcc --version
+
+2. Build the executable:
+   make clean
+   make all
+
+3. Generate datasets:
+   make data
+
+4. Run tests:
+   make test
+
+5. Run full benchmark:
+   make benchmark

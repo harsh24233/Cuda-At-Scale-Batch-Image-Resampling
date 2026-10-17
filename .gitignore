@@ -1,0 +1,26 @@
+# Build artifacts
+bin/*
+!bin/.gitkeep
+*.o
+*.obj
+*.out
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+# Intermediate large batch raw payloads (keep directory structure)
+data/batch_large/*.pgm
+results/batch_large/*.pgm
+!data/batch_large/.gitkeep
+!results/batch_large/.gitkeep
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/

@@ -1,0 +1,132 @@
+============================================================
+CUDA Enterprise Image Resampling Engine
+============================================================
+GPU Device:          NVIDIA GeForce RTX 4050 Laptop GPU
+Compute Capability:  8.9
+Total Global Memory: 6140 MiB
+Multiprocessors:     20
+Scale Factor:        0.5x
+Execution Mode:      Enterprise Batch Processing (Single Run)
+Batch Directory:     data/batch_small
+Output Directory:    results/batch_small
+------------------------------------------------------------
+Discovered 100 image(s) for batch processing.
+Beginning single-execution GPU batch pipeline...
+
+[Batch 001/100] image_001.pgm0000000 (128x128 -> 64x64) | GPU: 009.66 ms | 00000.4 MP/s | SUCCESS
+[Batch 002/100] image_002.pgm0000000 (128x128 -> 64x64) | GPU: 000.08 ms | 00053.3 MP/s | SUCCESS
+[Batch 003/100] image_003.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00400.0 MP/s | SUCCESS
+[Batch 004/100] image_004.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 005/100] image_005.pgm0000000 (128x128 -> 64x64) | GPU: 000.07 ms | 00061.5 MP/s | SUCCESS
+[Batch 006/100] image_006.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 007/100] image_007.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00083.7 MP/s | SUCCESS
+[Batch 008/100] image_008.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00333.3 MP/s | SUCCESS
+[Batch 009/100] image_009.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00815.3 MP/s | SUCCESS
+[Batch 010/100] image_010.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00766.5 MP/s | SUCCESS
+[Batch 011/100] image_011.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00333.3 MP/s | SUCCESS
+[Batch 012/100] image_012.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 013/100] image_013.pgm0000000 (128x128 -> 64x64) | GPU: 000.06 ms | 00071.4 MP/s | SUCCESS
+[Batch 014/100] image_014.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 015/100] image_015.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00222.2 MP/s | SUCCESS
+[Batch 016/100] image_016.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 017/100] image_017.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00436.9 MP/s | SUCCESS
+[Batch 018/100] image_018.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00444.4 MP/s | SUCCESS
+[Batch 019/100] image_019.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00571.4 MP/s | SUCCESS
+[Batch 020/100] image_020.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00363.6 MP/s | SUCCESS
+[Batch 021/100] image_021.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00479.4 MP/s | SUCCESS
+[Batch 022/100] image_022.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 023/100] image_023.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 024/100] image_024.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00401.3 MP/s | SUCCESS
+[Batch 025/100] image_025.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 026/100] image_026.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00250.0 MP/s | SUCCESS
+[Batch 027/100] image_027.pgm0000000 (128x128 -> 64x64) | GPU: 000.10 ms | 00042.6 MP/s | SUCCESS
+[Batch 028/100] image_028.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00287.0 MP/s | SUCCESS
+[Batch 029/100] image_029.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00266.7 MP/s | SUCCESS
+[Batch 030/100] image_030.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00666.7 MP/s | SUCCESS
+[Batch 031/100] image_031.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 032/100] image_032.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 033/100] image_033.pgm0000000 (128x128 -> 64x64) | GPU: 000.06 ms | 00063.5 MP/s | SUCCESS
+[Batch 034/100] image_034.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 035/100] image_035.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00078.4 MP/s | SUCCESS
+[Batch 036/100] image_036.pgm0000000 (128x128 -> 64x64) | GPU: 000.04 ms | 00093.4 MP/s | SUCCESS
+[Batch 037/100] image_037.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 038/100] image_038.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00080.0 MP/s | SUCCESS
+[Batch 039/100] image_039.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00510.0 MP/s | SUCCESS
+[Batch 040/100] image_040.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00088.9 MP/s | SUCCESS
+[Batch 041/100] image_041.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 042/100] image_042.pgm0000000 (128x128 -> 64x64) | GPU: 000.03 ms | 00117.6 MP/s | SUCCESS
+[Batch 043/100] image_043.pgm0000000 (128x128 -> 64x64) | GPU: 000.03 ms | 00125.0 MP/s | SUCCESS
+[Batch 044/100] image_044.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00444.4 MP/s | SUCCESS
+[Batch 045/100] image_045.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00307.7 MP/s | SUCCESS
+[Batch 046/100] image_046.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 047/100] image_047.pgm0000000 (128x128 -> 64x64) | GPU: 000.04 ms | 00114.3 MP/s | SUCCESS
+[Batch 048/100] image_048.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00076.9 MP/s | SUCCESS
+[Batch 049/100] image_049.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00173.9 MP/s | SUCCESS
+[Batch 050/100] image_050.pgm0000000 (128x128 -> 64x64) | GPU: 000.03 ms | 00125.0 MP/s | SUCCESS
+[Batch 051/100] image_051.pgm0000000 (128x128 -> 64x64) | GPU: 000.04 ms | 00093.0 MP/s | SUCCESS
+[Batch 052/100] image_052.pgm0000000 (128x128 -> 64x64) | GPU: 000.07 ms | 00058.0 MP/s | SUCCESS
+[Batch 053/100] image_053.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00400.0 MP/s | SUCCESS
+[Batch 054/100] image_054.pgm0000000 (128x128 -> 64x64) | GPU: 000.04 ms | 00093.0 MP/s | SUCCESS
+[Batch 055/100] image_055.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00571.4 MP/s | SUCCESS
+[Batch 056/100] image_056.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00571.4 MP/s | SUCCESS
+[Batch 057/100] image_057.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00222.2 MP/s | SUCCESS
+[Batch 058/100] image_058.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00571.4 MP/s | SUCCESS
+[Batch 059/100] image_059.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00075.5 MP/s | SUCCESS
+[Batch 060/100] image_060.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00666.7 MP/s | SUCCESS
+[Batch 061/100] image_061.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00666.7 MP/s | SUCCESS
+[Batch 062/100] image_062.pgm0000000 (128x128 -> 64x64) | GPU: 000.03 ms | 00124.0 MP/s | SUCCESS
+[Batch 063/100] image_063.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 064/100] image_064.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 065/100] image_065.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00088.9 MP/s | SUCCESS
+[Batch 066/100] image_066.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00500.0 MP/s | SUCCESS
+[Batch 067/100] image_067.pgm0000000 (128x128 -> 64x64) | GPU: 000.07 ms | 00060.6 MP/s | SUCCESS
+[Batch 068/100] image_068.pgm0000000 (128x128 -> 64x64) | GPU: 000.11 ms | 00038.4 MP/s | SUCCESS
+[Batch 069/100] image_069.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00549.4 MP/s | SUCCESS
+[Batch 070/100] image_070.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 00992.2 MP/s | SUCCESS
+[Batch 071/100] image_071.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 00831.2 MP/s | SUCCESS
+[Batch 072/100] image_072.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 073/100] image_073.pgm0000000 (128x128 -> 64x64) | GPU: 000.11 ms | 00037.4 MP/s | SUCCESS
+[Batch 074/100] image_074.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 075/100] image_075.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00080.0 MP/s | SUCCESS
+[Batch 076/100] image_076.pgm0000000 (128x128 -> 64x64) | GPU: 000.04 ms | 00102.6 MP/s | SUCCESS
+[Batch 077/100] image_077.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 00831.2 MP/s | SUCCESS
+[Batch 078/100] image_078.pgm0000000 (128x128 -> 64x64) | GPU: 000.07 ms | 00055.6 MP/s | SUCCESS
+[Batch 079/100] image_079.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 080/100] image_080.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00571.4 MP/s | SUCCESS
+[Batch 081/100] image_081.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00306.2 MP/s | SUCCESS
+[Batch 082/100] image_082.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00400.0 MP/s | SUCCESS
+[Batch 083/100] image_083.pgm0000000 (128x128 -> 64x64) | GPU: 000.03 ms | 00148.5 MP/s | SUCCESS
+[Batch 084/100] image_084.pgm0000000 (128x128 -> 64x64) | GPU: 000.06 ms | 00065.4 MP/s | SUCCESS
+[Batch 085/100] image_085.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00076.8 MP/s | SUCCESS
+[Batch 086/100] image_086.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 087/100] image_087.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00085.1 MP/s | SUCCESS
+[Batch 088/100] image_088.pgm0000000 (128x128 -> 64x64) | GPU: 000.06 ms | 00072.7 MP/s | SUCCESS
+[Batch 089/100] image_089.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00353.6 MP/s | SUCCESS
+[Batch 090/100] image_090.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 091/100] image_091.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00315.3 MP/s | SUCCESS
+[Batch 092/100] image_092.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00190.5 MP/s | SUCCESS
+[Batch 093/100] image_093.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00666.7 MP/s | SUCCESS
+[Batch 094/100] image_094.pgm0000000 (128x128 -> 64x64) | GPU: 000.02 ms | 00173.9 MP/s | SUCCESS
+[Batch 095/100] image_095.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 096/100] image_096.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 097/100] image_097.pgm0000000 (128x128 -> 64x64) | GPU: 000.05 ms | 00077.0 MP/s | SUCCESS
+[Batch 098/100] image_098.pgm0000000 (128x128 -> 64x64) | GPU: 000.00 ms | 01000.0 MP/s | SUCCESS
+[Batch 099/100] image_099.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00800.0 MP/s | SUCCESS
+[Batch 100/100] image_100.pgm0000000 (128x128 -> 64x64) | GPU: 000.01 ms | 00400.0 MP/s | SUCCESS
+
+============================================================
+Enterprise GPU Batch Processing Summary
+============================================================
+Total Items Discovered:       100
+Successfully Processed:       100 / 100
+Total Input Data Volume:      1.64 Megapixels (1.56 MB raw)
+Total Output Data Volume:     0.41 Megapixels (0.39 MB raw)
+Cumulative GPU Kernel Time:   12.05 ms
+Average GPU Latency per Image:0.121 ms
+Total Batch Wall-Clock Time:  1271.73 ms
+Batch Processing Rate:        78.6 images / second
+GPU Resampling Throughput:    33.99 Megapixels / second
+Overall Batch Execution Status: ALL PASSED (100% SUCCESS)
+============================================================
+Batch benchmark metrics saved to: results/benchmark_small_batch.csv
+

@@ -1,0 +1,19 @@
+============================================================
+CUDA Enterprise Image Resampling Engine
+============================================================
+GPU Device:          NVIDIA GeForce RTX 4050 Laptop GPU
+Compute Capability:  8.9
+Total Global Memory: 6140 MiB
+Multiprocessors:     20
+Scale Factor:        0.5x
+Execution Mode:      Single Image Resampling
+Input Path:          data/sample/sample.pgm
+Output Path:         results/sample/sample_scale_05.pgm
+------------------------------------------------------------
+Input Dimensions:    320 x 240 (75 KB)
+Output Dimensions:   160 x 120 (18 KB)
+GPU Kernel Time:     17.048 ms
+Throughput:          1.13 Megapixels/sec
+Status:              SUCCESS
+Saved Image:         results/sample/sample_scale_05.pgm
+============================================================
